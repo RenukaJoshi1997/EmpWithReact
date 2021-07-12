@@ -1,0 +1,32 @@
+
+[
+    {
+        "Name":"Shubham Dawkare",
+        "Job":"Sales",
+        "Dept":10,
+        "Location":"Pune",
+        "Reviews" : 10
+    },
+    {
+        "Name":"Roshan Patil",
+        "Job":"Manager",
+        "Dept":10,
+        "Location":"Kolhapur",
+        "Reviews" : 10
+    },
+    {
+        "Name":"Renuka Joshi",
+        "Job":"HR",
+        "Dept":20,
+        "Location":"Pune",
+        "Reviews" : 10
+    },
+    {
+        "Name":"Madhuri Deshmukh",
+        "Job":"Admin",
+        "Dept":30,
+        "Location":"Pune",
+        "Reviews" : 10
+    }
+
+]
